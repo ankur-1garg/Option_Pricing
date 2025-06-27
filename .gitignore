@@ -1,0 +1,27 @@
+# Ignore build artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+demo
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor/OS files
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+
+# Backup files
+*.bak
+*.tmp
+
+# Ignore by pattern
+*.log
