@@ -6,6 +6,10 @@ build/
 *.exe
 demo
 
+# Ignore source files
+.gitignore
+.dockerignore
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
