@@ -1,7 +1,7 @@
 // include/european_option.hpp
 #pragma once
 
-#include "option.hpp"
+#include "Option.hpp"
 #include <algorithm> // For std::max
 
 class EuropeanOption : public Option {
